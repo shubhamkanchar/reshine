@@ -13,33 +13,33 @@
   <div class="row">
     <div id="section-gallery"></div>
     <div class="col-lg-3">
-      <a data-fancybox="gallery" href="{{ asset('theme/img/1.jpg') }}">
-        <img src="{{ asset('theme/img/1.jpg') }}" class="image-custom">
+      <a data-fancybox="gallery" href="{{ url('public/theme/img/1.jpg') }}">
+        <img src="{{ url('public/theme/img/1.jpg') }}" class="image-custom">
       </a>
     </div>
     <div class="col-lg-3">
-      <a data-fancybox="gallery" href="{{ asset('theme/img/2.jpg') }}">
-        <img src="{{ asset('theme/img/2.jpg') }}" class="image-custom">
+      <a data-fancybox="gallery" href="{{ url('public/theme/img/2.jpg') }}">
+        <img src="{{ url('public/theme/img/2.jpg') }}" class="image-custom">
       </a>
     </div>
     <div class="col-lg-3">
-      <a data-fancybox="gallery" href="{{ asset('theme/img/3.jpg') }}">
-        <img src="{{ asset('theme/img/3.jpg') }}" class="image-custom">
+      <a data-fancybox="gallery" href="{{ url('public/theme/img/3.jpg') }}">
+        <img src="{{ url('public/theme/img/3.jpg') }}" class="image-custom">
       </a>
     </div>
     <div class="col-lg-3">
-      <a data-fancybox="gallery" href="{{ asset('theme/img/4.jpg') }}">
-        <img src="{{ asset('theme/img/4.jpg') }}" class="image-custom">
+      <a data-fancybox="gallery" href="{{ url('public/theme/img/4.jpg') }}">
+        <img src="{{ url('public/theme/img/4.jpg') }}" class="image-custom">
       </a>
     </div>
     <div class="col-lg-3">
-      <a data-fancybox="gallery" href="{{ asset('theme/img/5.jpg') }}">
-        <img src="{{ asset('theme/img/5.jpg') }}" class="image-custom">
+      <a data-fancybox="gallery" href="{{ url('public/theme/img/5.jpg') }}">
+        <img src="{{ url('public/theme/img/5.jpg') }}" class="image-custom">
       </a>
     </div>
     <div class="col-lg-3 mb-5">
-      <a data-fancybox="gallery" href="{{ asset('theme/img/6.jpg') }}">
-        <img src="{{ asset('theme/img/6.jpg') }}" class="image-custom">
+      <a data-fancybox="gallery" href="{{ url('public/theme/img/6.jpg') }}">
+        <img src="{{ url('public/theme/img/6.jpg') }}" class="image-custom">
       </a>
     </div>
   </div>

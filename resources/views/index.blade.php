@@ -10,7 +10,7 @@
         </ol>
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img class="d-block w-100" src="{{ asset('theme/images/cover-3.jpg') }}" alt="First slide" style="width:100%;height:85vh">
+                <img class="d-block w-100" src="{{ url('public/theme/images/cover-3.jpg') }}" alt="First slide" style="width:100%;height:85vh">
                 <div class="carousel-caption">
                     <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size:30px;font-weight: bold;color:white">Humanity is the only way to experience the true love of god.</h3>
                     <p>
@@ -21,7 +21,7 @@
                 </div>
             </div>
             <div class="item">
-                <video muted autoplay loop style="height:85vh;width:100%;object-fit: cover;" src="{{ asset('theme/images/vid-1.mp4') }}" type="video/mp4"></video>
+                <video muted autoplay loop style="height:85vh;width:100%;object-fit: cover;" src="{{ url('public/theme/images/vid-1.mp4') }}" type="video/mp4"></video>
                 <div class="carousel-caption">
                     <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size:30px;font-weight: bold;color:white">Humanity is the only way to experience the true love of god.</h3>
                     <p><span>
@@ -32,7 +32,7 @@
                 </div>
             </div>
             <div class="item">
-                <video muted autoplay loop style="height:85vh;width:100%;object-fit: cover;" src="{{ asset('theme/images/vid-2.mp4') }}" type="video/mp4"></video>
+                <video muted autoplay loop style="height:85vh;width:100%;object-fit: cover;" src="{{ url('public/theme/images/vid-2.mp4') }}" type="video/mp4"></video>
                 <div class="carousel-caption">
                     <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size:30px;font-weight: bold;color:white">Humanity is the only way to experience the true love of god.</h3>
                     <p><span>
@@ -138,7 +138,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="feature-text">
-                        <p><img src="{{ asset('theme/images/afforestation.jpg') }}" alt="" class="img-responsive" style="border-radius:10px"></p>
+                        <p><img src="{{ url('public/theme/images/afforestation.jpg') }}" alt="" class="img-responsive" style="border-radius:10px"></p>
                     </div>
                 </div>
                 <div class="col-md-1"></div>
@@ -154,7 +154,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="feature-text">
-                        <p><img src="{{ asset('theme/images/enlighten.jpg') }}" alt="" class="img-responsive" style="border-radius:10px"></p>
+                        <p><img src="{{ url('public/theme/images/enlighten.jpg') }}" alt="" class="img-responsive" style="border-radius:10px"></p>
                     </div>
                 </div>
                 <div class="col-md-1"></div>
@@ -176,7 +176,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="feature-text">
-                        <p><img src="{{ asset('theme/images/cm-1.jpg') }}" alt="" class="img-responsive" style="border-radius:10px"></p>
+                        <p><img src="{{ url('public/theme/images/cm-1.jpg') }}" alt="" class="img-responsive" style="border-radius:10px"></p>
                     </div>
                 </div>
                 <div class="col-md-1"></div>
@@ -198,7 +198,7 @@
             <div class="col-md-6">
                 <div class="custom-testimonial text-center animate-box">
                     <figure>
-                        <img src="{{ asset('theme/images/testimonial-1.jpg') }}" alt="user">
+                        <img src="{{ url('public/theme/images/testimonial-1.jpg') }}" alt="user">
                     </figure>
                     <blockquote>
                         <p>&ldquo;In India The largest and severe problem is hunger . The main reason for the cause is our society. In order to tackle the problem Reshine Organisation has taken an initiative of serving the surplus food to the needful. I advice two precious things which is to be implemented in our life contentment and Humanity. I congratulate the team for this gracious and godly work.&rdquo;</p>
@@ -210,7 +210,7 @@
             <div class="col-md-6">
                 <div class="custom-testimonial text-center animate-box">
                     <figure>
-                        <img src="{{ asset('theme/images/testimonial-2.jpg') }}" alt="user">
+                        <img src="{{ url('public/theme/images/testimonial-2.jpg') }}" alt="user">
                     </figure>
                     <blockquote>
                         <p>&ldquo;Hunger is a word which is terrible by itself. Everywhere in the world if you visit,you can find people who have nothing to eat. I thank Reshine team for visiting my home and having the concern towards the hungry people.&rdquo;</p>
@@ -226,7 +226,7 @@
             <div class="col-md-6">
                 <div class="custom-testimonial text-center animate-box">
                     <figure>
-                        <img src="{{ asset('theme/images/testimonial-3.jpg') }}" alt="user">
+                        <img src="{{ url('public/theme/images/testimonial-3.jpg') }}" alt="user">
                     </figure>
                     <blockquote>
                         <p>&ldquo;In today's world, we are persuing higher education but lacking common sense and humanity.
@@ -247,7 +247,7 @@
             <div class="col-md-6">
                 <div class="custom-testimonial text-center animate-box">
                     <figure>
-                        <img src="{{ asset('theme/images/testimonial-4.jpg') }}" alt="user">
+                        <img src="{{ url('public/theme/images/testimonial-4.jpg') }}" alt="user">
                     </figure>
                     <blockquote>
                         <p>&ldquo;Reshine organisation is doing a innovative program of collecting excess food from functions and distributing
@@ -275,7 +275,7 @@
             <div class="row row-bottom-padded-md">
                 <div class="col-md-12">
                     <ul id="custom-portfolio-list">
-                        <li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url({{ asset('theme/images/gallery-2.jpg') }} ); ">
+                        <li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url({{ url('public/theme/images/gallery-2.jpg') }} ); ">
                             <a href="gallery.html" class="color-3" data-ajax="false">
                                 <!--
 									<div class="case-studies-summary" style="background: rgba(0,0,0,0.8);padding:5px;border-radius:10px;">
@@ -284,7 +284,7 @@
 									</div>-->
                             </a>
                         </li>
-                        <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url({{ asset('theme/images/gallery-1.jpg') }}); ">
+                        <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url({{ url('public/theme/images/gallery-1.jpg') }}); ">
                             <a href="gallery.html" class="color-4" data-ajax="false">
                                 <!--
 									<div class="case-studies-summary" style="background: rgba(0,0,0,0.8);padding:5px;border-radius:10px;">
@@ -294,7 +294,7 @@
 									</div>-->
                             </a>
                         </li>
-                        <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url({{ asset('theme/images/gallery-3.jpg') }}); ">
+                        <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url({{ url('public/theme/images/gallery-3.jpg') }}); ">
                             <a href="gallery.html" class="color-5" data-ajax="false">
                                 <!--
 									<div class="case-studies-summary" style="background: rgba(0,0,0,0.8);padding:5px;border-radius:10px;">
@@ -306,7 +306,7 @@
 									</div>-->
                             </a>
                         </li>
-                        <li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url({{ asset('theme/images/gallery-4.jpg') }}); ">
+                        <li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url({{ url('public/theme/images/gallery-4.jpg') }}); ">
                             <a href="gallery.html" class="color-6" data-ajax="false">
                                 <!--
 									<div class="case-studies-summary" style="background: rgba(0,0,0,0.8);padding:5px;border-radius:10px;">
@@ -416,7 +416,7 @@
 
             <div class="row row-bottom-padded-md">
                 <div class="col-md-5 text-center animate-box">
-                    <p><img src="{{ asset('theme/images/donate.jpg') }}" alt="" class="img-responsive"></p>
+                    <p><img src="{{ url('public/theme/images/donate.jpg') }}" alt="" class="img-responsive"></p>
                 </div>
                 <div class="col-md-1"></div>
                 <div class="col-md-6 animate-box">
@@ -465,7 +465,7 @@
         <div class="row">
             <div style="text-align: center;align-content: center;">
                 <p style="font-size: larger;margin-bottom: 5px;">Public Hero - 2019</p>
-                <center><img src="{{ asset('theme/images/public.jpg') }}" alt="Public Hero 2019 - Regshine Organisation" class="img-responsive" style="height:20vh;align-self: center;"></center><br />
+                <center><img src="{{ url('public/theme/images/public.jpg') }}" alt="Public Hero 2019 - Regshine Organisation" class="img-responsive" style="height:20vh;align-self: center;"></center><br />
             </div>
         </div>
     </div>

@@ -2,7 +2,7 @@
     <div class="container">
         <div class="nav-header">
             <a href="#" class="js-custom-nav-toggle custom-nav-toggle dark" onclick="toTop()"><i></i></a>
-            <h1 id="custom-logo" style="white-space:nowrap"><img src="{{ asset('theme/images/logo.png') }}" class="img-responsive" style="height:35px;display: inline;"><a href="{{ route('home') }}" style="display:inline; white-space:nowrap;color:rgb(67,168,224)">RESHINE ORGANISATION</a></h1>
+            <h1 id="custom-logo" style="white-space:nowrap"><img src="{{ url('public/theme/images/logo.png') }}" class="img-responsive" style="height:35px;display: inline;"><a href="{{ route('home') }}" style="display:inline; white-space:nowrap;color:rgb(67,168,224)">RESHINE ORGANISATION</a></h1>
             <nav id="custom-menu-wrap" role="navigation">
                 <ul class="sf-menu" id="custom-primary-menu">
                     <li><a href="{{ route('home') }}" data-ajax="false" onclick="onLinkClick()">Home</a></li>
