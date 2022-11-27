@@ -14,7 +14,9 @@
                 <div class="carousel-caption">
                     <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size:30px;font-weight: bold;color:white">Humanity is the only way to experience the true love of god.</h3>
                     <p>
-                    <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_J0Yar97z8xmsHJ" async> </script> </form>
+                    <form>
+                        <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_J0Yar97z8xmsHJ" async> </script>
+                    </form>
                     </p>
                 </div>
             </div>
@@ -23,7 +25,9 @@
                 <div class="carousel-caption">
                     <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size:30px;font-weight: bold;color:white">Humanity is the only way to experience the true love of god.</h3>
                     <p>
-                    <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_J0Yar97z8xmsHJ" async> </script> </form>
+                    <form>
+                        <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_J0Yar97z8xmsHJ" async> </script>
+                    </form>
                     </p>
                 </div>
             </div>
@@ -31,7 +35,11 @@
                 <video muted autoplay loop style="height:85vh;width:100%;object-fit: cover;" src="{{ url('public/theme/images/vid-2.mp4') }}" type="video/mp4"></video>
                 <div class="carousel-caption">
                     <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size:30px;font-weight: bold;color:white">Humanity is the only way to experience the true love of god.</h3>
-                    <p><form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_J0Yar97z8xmsHJ" async> </script> </form></p>
+                    <p>
+                    <form>
+                        <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_J0Yar97z8xmsHJ" async> </script>
+                    </form>
+                    </p>
                 </div>
             </div>
         </div>
@@ -408,13 +416,15 @@
 
             <div class="row row-bottom-padded-md">
                 <div class="col-md-5 text-center animate-box">
-                    <p><img src="{{ url('public/theme/images/donate.jpg') }}" alt="" class="img-responsive"></p>
+                    <p><img src="{{ url('public/theme/images/donate1.jpg') }}" alt="" class="img-responsive"></p>
                 </div>
                 <div class="col-md-1"></div>
                 <div class="col-md-6 animate-box">
                     <h4>Donate To Us Online, Just click below 'Donate Now' button</h4>
                     <p>
-                    <form class="text-center"><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_J0Yar97z8xmsHJ" async> </script> </form>
+                    <form class="text-center">
+                        <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_J0Yar97z8xmsHJ" async> </script>
+                    </form>
                     </p>
                     <p class="text-center">OR</p>
                     <h4>Donate To Us On,</h4>
@@ -422,19 +432,23 @@
                         <fieldset disabled>
                             <div class="form-group">
                                 <label for="disabledTextInput">In Favor Of</label>
-                                <input type="text" id="disabledTextInput" class="form-control" placeholder="RESHINE ORGANIZATION DEVELOPMENT SOCIETY">
+                                <input type="text" id="disabledTextInput" class="form-control" placeholder="Reshine Organisation">
                             </div>
                             <div class="form-group">
                                 <label for="disabledTextInput">Account Number</label>
-                                <input type="text" id="disabledTextInput" class="form-control" placeholder="510101006521844">
+                                <input type="text" id="disabledTextInput" class="form-control" placeholder="40739649129">
                             </div>
                             <div class="form-group">
                                 <label for="disabledTextInput">IFSC Code</label>
-                                <input type="text" id="disabledTextInput" class="form-control" placeholder="CORP0000196">
+                                <input type="text" id="disabledTextInput" class="form-control" placeholder="SBIN0020237">
                             </div>
                             <div class="form-group">
                                 <label for="disabledTextInput">Bank Name</label>
-                                <input type="text" id="disabledTextInput" class="form-control" placeholder="CORPORATION BANK">
+                                <input type="text" id="disabledTextInput" class="form-control" placeholder="State Bank of India">
+                            </div>
+                            <div class="form-group">
+                                <label for="disabledTextInput">Branch</label>
+                                <input type="text" id="disabledTextInput" class="form-control" placeholder="Near DC office Bidar">
                             </div>
                         </fieldset>
                     </form>
