@@ -14,9 +14,7 @@
                 <div class="carousel-caption">
                     <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size:30px;font-weight: bold;color:white">Humanity is the only way to experience the true love of god.</h3>
                     <p>
-                    <form>
-                        <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Kl0qGHMRo8FFBH" async> </script>
-                    </form>
+                    <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_J0Yar97z8xmsHJ" async> </script> </form>
                     </p>
                 </div>
             </div>
@@ -24,22 +22,16 @@
                 <video muted autoplay loop style="height:85vh;width:100%;object-fit: cover;" src="{{ url('public/theme/images/vid-1.mp4') }}" type="video/mp4"></video>
                 <div class="carousel-caption">
                     <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size:30px;font-weight: bold;color:white">Humanity is the only way to experience the true love of god.</h3>
-                    <p><span>
-                            <form>
-                                <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Kl0qGHMRo8FFBH" async> </script>
-                            </form>
-                        </span></p>
+                    <p>
+                    <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_J0Yar97z8xmsHJ" async> </script> </form>
+                    </p>
                 </div>
             </div>
             <div class="item">
                 <video muted autoplay loop style="height:85vh;width:100%;object-fit: cover;" src="{{ url('public/theme/images/vid-2.mp4') }}" type="video/mp4"></video>
                 <div class="carousel-caption">
                     <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size:30px;font-weight: bold;color:white">Humanity is the only way to experience the true love of god.</h3>
-                    <p><span>
-                            <form>
-                                <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Kl0qGHMRo8FFBH" async> </script>
-                            </form>
-                        </span></p>
+                    <p><form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_J0Yar97z8xmsHJ" async> </script> </form></p>
                 </div>
             </div>
         </div>
@@ -422,9 +414,7 @@
                 <div class="col-md-6 animate-box">
                     <h4>Donate To Us Online, Just click below 'Donate Now' button</h4>
                     <p>
-                    <form class="text-center">
-                        <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Kl0qGHMRo8FFBH" async> </script>
-                    </form>
+                    <form class="text-center"><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_J0Yar97z8xmsHJ" async> </script> </form>
                     </p>
                     <p class="text-center">OR</p>
                     <h4>Donate To Us On,</h4>
