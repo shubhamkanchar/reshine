@@ -35,3 +35,7 @@ Route::get('/about-us', function () {
 Route::get('/privacy-policy', function () {
     return view('policy');
 })->name('policy');
+
+Route::get('/refund-policy', function () {
+    return view('refund');
+})->name('refund');

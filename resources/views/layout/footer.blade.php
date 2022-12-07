@@ -13,10 +13,11 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-6 col-md-offset-3 text-center">
+                <div class="col-md-7 col-md-offset-3 text-center">
                         <a class="text-white" href="{{ route('about') }}">About Us   |</a>
                         <a class="text-white" href="{{ route('terms') }}">Terms and Conditions  |</i></a>
-                        <a class="text-white" href="{{ route('policy') }}">Privacy policy</a>
+                        <a class="text-white" href="{{ route('policy') }}">Privacy policy |</a>
+                        <a class="text-white" href="{{ route('refund') }}">refund and cancellation policy</a>
                 </div>
             </div>
             <div class="row">

@@ -34,14 +34,14 @@
             </p>
         </div>
         <div class="col-lg-12">
-            <p>We won’t share your personal details with any other third party other than is set out in our Privacy Policy. Our Privacy Policy forms part of these Terms and Conditions and by agreeing to these Terms and Conditions you are also agreeing to the way we use and protect your personal information in line with our Privacy Policy.</p>
+            <p>4. We won’t share your personal details with any other third party other than is set out in our Privacy Policy. Our Privacy Policy forms part of these Terms and Conditions and by agreeing to these Terms and Conditions you are also agreeing to the way we use and protect your personal information in line with our Privacy Policy.</p>
         </div>
         <!-- <div class="col-lg-12 mb-5">
             <p>We do not have a Refund policy for the donations made through our website. We request you to confirm the amount of donation thoroughly, before donating the same. The amount donated to us shall be utilized completely for carrying out the charitable activities by our organization.</p>
         </div> -->
         <div class="col-lg-12 mb-5">
             
-            <p>Donation Receipts for availing the tax benefits u/s 80G of the Income-tax Act, 1961, shall be provided to the donor, on receipt of PAN Card and Aadhar Card copy of the donor at reshineorg@gmail.com</p>
+            <p>5 .Donation Receipts for availing the tax benefits u/s 80G of the Income-tax Act, 1961, shall be provided to the donor, on receipt of PAN Card and Aadhar Card copy of the donor at reshineorg@gmail.com</p>
         </div>
     </div>
 </div>
