@@ -12,7 +12,7 @@
                     <p style="font-size: 18px;">Reshine Organisation wants to empower children through education. Our flagship program " Street  To School" has been working with the objective of empowering underprivileged children by providing education , nutrition and healthcare support. Our aim is  to make a difference in the lives of underprivileged children belonging to socio-economically  marginalized sections of society.</p>    
                 </div>
                 <div class="col-md-5 text-center animate-box">
-                    <iframe width="344" height="611" src="https://www.youtube.com/embed/mffF7n5uOec" title="Read &amp; Grow #viral #bidar #reels #video #youtubeshorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <iframe style="width: 100%;" height="611" src="https://www.youtube.com/embed/mffF7n5uOec" title="Read &amp; Grow #viral #bidar #reels #video #youtubeshorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
