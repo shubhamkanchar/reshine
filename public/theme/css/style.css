@@ -1503,3 +1503,17 @@ figure {
     display: block !important;
   }
 }
+
+@media only screen and (max-width: 768px) {
+  .new-logo {
+    font-size: 14px !important;
+    font-weight: 700;
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  .new-logo {
+    font-size: 25px !important;
+    font-weight: 700;
+  }
+}

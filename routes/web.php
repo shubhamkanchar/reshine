@@ -39,3 +39,11 @@ Route::get('/privacy-policy', function () {
 Route::get('/refund-policy', function () {
     return view('refund');
 })->name('refund');
+
+Route::get('/education', function () {
+    return view('education');
+})->name('education');
+
+Route::get('/elderly-and-disabled-people', function () {
+    return view('eadp');
+})->name('eadp');
